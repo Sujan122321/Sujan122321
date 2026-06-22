@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=220&section=header&text=Sujan%20Shrestha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Nepal%20🇳🇵&descAlignY=62&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%7C+NLP+%7C+Generative+AI;🕸️+Agentic+Pipelines+with+LangChain+%26+LangGraph;☁️+AWS+Cloud+Practitioner;📍+Engineering+Intelligence+from+Nepal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%7C+NLP+%7C+Generative+AI;🕸️+Agentic+Pipelines+with+LangChain+%26+LangGraph;☁️+AWS+Cloud+Practitioner;📍+Engineering+Intelligence+from+Nepal" alt="Typing SVG" />
 
 </div>
 
